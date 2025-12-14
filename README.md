@@ -22,7 +22,8 @@
 | Performance, Capacidade e Escalabilidade  | [Slides](https://docs.google.com/presentation/d/1-VVvHoOHAUgz0BgfNI_Rt2OIc4vUKZG81yHhXeuwtwk/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/performance-capacidade-escalabilidade/)                   | -      |
 | The Scale Cube                            | [Slides](https://docs.google.com/presentation/d/1tocfJGuMEhY-g_8T74gBX-Pa4APcpwx_rEiD5lTBVts/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/cubo-escalabilidade/)                                     | -      |
 | Conceitos de Sharding e Particionamento   | [Slides](https://docs.google.com/presentation/d/1W0ctaVbKe75eV2yFNSMDztnpOLeiwBqe8A9_ckuSop4/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/sharding/)                                                | -      |
-
+| Conceitos de Replicação de Dados          | [Slides](https://docs.google.com/presentation/d/12XHSxbFiQP8-fm_fBAlsLPq_DAQSy9FA8xe5oViAmEU/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/replicacao/)                                              | -      |
+| CQRS                                      | [Slides](https://docs.google.com/presentation/d/1OSA8kZN6NM-FOuj97O77lJoXByTon1F0ROJLCCHj40Y/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/cqrs/)                                                    | -      |
 
 # Book de Cases e Exercícios Livres 
 
