@@ -3,13 +3,13 @@ module hospital-cqrs
 go 1.24.0
 
 require (
+	github.com/IBM/sarama v1.46.3
 	github.com/gofiber/fiber/v2 v2.52.0
 	github.com/lib/pq v1.10.9
 	github.com/segmentio/kafka-go v0.4.47
 )
 
 require (
-	github.com/IBM/sarama v1.46.3 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/eapache/go-resiliency v1.7.0 // indirect
