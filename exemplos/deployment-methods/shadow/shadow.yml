@@ -24,8 +24,8 @@ spec:
               name: chip
               image: fidelissauro/chip:v1
               namespace: shadow
-              iam: ""
-              version: v8
+              iam: "ni"
+              version: v9
               capacity:
                 requests: 
                   cpu: 100m

@@ -52,6 +52,11 @@
 | Sistema de Contestação de Compras | Intermediário | [Link](/cases/INTERMEDIARIO_CONTESTACAO_COMPRAS.md) |
 | Sistema de Gestão de Pontos | Intermediário | [Link](/cases/INTERMEDIARIO_SISTEMA_DE_PONTOS.md) | 
 | Sistema de Votação de Reality Shows | Intermediário | [Link](/cases/INTERMEDIARIO_VOTACAO.md) |
+| Sistema Distribuído de Gestão de Estoque para Varejo | Intermediário | [Link](/cases/INTERMEDIARIO_ESTOQUE.md)   |
+| Ingestão e Telemetria | Avançado | [Link](/cases/AVANCADO_TELEMETRIA_LOGISTICA.md) |
+| Gestão de Vagas   | Avançado  | [Link](/cases/AVANCADO_CADASTRO_VAGAS.md) |
+| Controle de Ponto | Intermediário  | [Link](/cases/INTERMEDIARIO_GESTAO_DE_PONTO.md) | 
+
 
 ## Cases Resolvidos 
 
