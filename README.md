@@ -30,7 +30,7 @@
 | Estratégias de Deploy                     | [Slides](https://docs.google.com/presentation/d/1HkATsqxpIgeMa1ayDnOFKtM-nNiBHu0uyVbJ95G-wsM/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/deployment-strategies/)                                   | -      |
 | Capacity Planning e Teoria das Filas      | [Slides](https://docs.google.com/presentation/d/1HCETbbFs579gJrMvO_Nl_u8gr5aYWQ4ZMOYuYklvOZA/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/capacity-planning/)                                       | -      |
 | Testes de Carga e Estresse                | [Slides](https://docs.google.com/presentation/d/1tZ8c4uSxQjbWL47EX-KjcNm2jOs4hJBhSCEs5mcD6I0/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/load-testing/)                                            | [Assessment](/exemplos/load-test/)    |
-
+| Bulkhead Pattern                          | [Slides](https://docs.google.com/presentation/d/1cf8n-0Rlka9nQ36PLX05m3SuowQeE0hIT63h5LRrKa0/edit?usp=sharing)                            | [Artigo](https://fidelissauro.dev/bulkheads)                                                | -      |    
 
 # Book de Cases e Exercícios Livres 
 
